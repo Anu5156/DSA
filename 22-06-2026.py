@@ -63,4 +63,25 @@ print(max(a,b))#40"""
 #flowchart:it is the pictoral representation of the algorithm
 """the AMERICAN NATIONAL STANDARDS INSTITUTE set standards for flowcharts and their symbols in the 1960s
 """
+"""
+software that are responsible for the flowchart
+1.flowgorithm
+2.rapidir
+3.flowchar maker
+4.draw io
+5.chart expo
+6.flow chart
+7.lucid chart
+8.miro
+9.robo pro
+10.griffy
 
+"""
+#DISADVANTAGES OF THE FLOWCHART
+"""
+1.not suitable for software modelling
+2.not suitable for explaining events in software
+3.not software for OOPs software
+4.Note suitable for stakeholder
+5.Not suitable for behavioural study
+"""
